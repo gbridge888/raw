@@ -1,0 +1,12 @@
+官：
+bash <(curl -s -L https://raw.gitee.repl.co/main/drpy.sh)
+
+备：
+bash <(curl -s -L https://raw.gitee.repl.co/main/drpyb.sh)
+
+
+bash <(curl -s -L https://raw.gitee.repl.co/main/alist.sh)
+
+bash <(curl -s -L https://raw.gitee.repl.co/main/onealist.sh)
+
+bash <(curl -s -L https://raw.gitee.repl.co/main/test.sh)
